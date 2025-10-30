@@ -1,5 +1,5 @@
 import { defineConfig } from "npm:vite";
 
 export default defineConfig({
-  base: "/",
+  base: "cmpm121d1a",
 });
